@@ -62,12 +62,12 @@ In addition, convenience functions -- "syntactic sugar" -- are provided to inser
 ## More Detailed Documentation
 
 * [Getting Started](/doc/getting-started.md)
-* [Friendly SQL Functions](https://cljdoc.org/d/seancorfield/next.jdbc/CURRENT/doc/getting-started/friendly-sql-functions)
-* [Result Set Builders](https://cljdoc.org/d/seancorfield/next.jdbc/CURRENT/doc/getting-started/result-set-builders)
-* [Prepared Statements](https://cljdoc.org/d/seancorfield/next.jdbc/CURRENT/doc/getting-started/prepared-statements)
-* [Transactions](https://cljdoc.org/d/seancorfield/next.jdbc/CURRENT/doc/getting-started/transactions)
-* [All The Options](https://cljdoc.org/d/seancorfield/next.jdbc/CURRENT/doc/all-the-options)
-* [Migration from `clojure.java.jdbc`](https://cljdoc.org/d/seancorfield/next.jdbc/CURRENT/doc/migration-from-clojure-java-jdbc)
+* [Friendly SQL Functions](/doc/friendly-sql-functions.md)
+* [Result Set Builders](/doc/result-set-builders.md)
+* [Prepared Statements](/doc/prepared-statements.md)
+* [Transactions](doc/transactions.md)
+* [All The Options](/doc/all-the-options.md)
+* [Migration from `clojure.java.jdbc`](/doc/migration-from-clojure-java-jdbc.md)
 
 ## License
 
